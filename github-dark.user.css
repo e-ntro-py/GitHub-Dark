@@ -5917,6 +5917,19 @@
       mask-image: linear-gradient(75deg, #0000004d 0%, #f0f0f0 50%, #0000004d 100%);
     }
   }
+  .ErrorPage404Component-module__ErrorPage404__cB4yx .ErrorPage404Component-module__Button__fRaY4:focus,
+  .ErrorPage404Component-module__ErrorPage404__cB4yx input[type=password]:focus,
+  .ErrorPage404Component-module__ErrorPage404__cB4yx input[type=text]:focus {
+    box-shadow: none;
+  }
+  .ErrorPage404Component-module__ErrorPage404__cB4yx .ErrorPage404Component-module__Button__fRaY4:active {
+    background-image: none;
+  }
+  .ErrorPage404Component-module__ErrorPage404__cB4yx .ErrorPage404Component-module__Auth__fLfhF,
+  .ErrorPage404Component-module__ErrorPage404__cB4yx .ErrorPage404Component-module__Auth__fLfhF .ErrorPage404Component-module__Button__fRaY4:focus,
+  .ErrorPage404Component-module__ErrorPage404__cB4yx .ErrorPage404Component-module__Auth__fLfhF input[type=password]:focus,
+  .ErrorPage404Component-module__ErrorPage404__cB4yx .ErrorPage404Component-module__Auth__fLfhF input[type=text]:focus,
+  .ErrorPage404Component-module__ErrorPage404__cB4yx .ErrorPage404Component-module__SearchForm__E8LVz .ErrorPage404Component-module__Button__fRaY4,
   .FileResultsList-module__PrimerLink__Mmo7i {
     box-shadow: none;
   }
